@@ -1,10 +1,10 @@
-> **Note:** To access all shared projects, get information about environment setup, and view other guides, please visit [Explore-In-HMOS-Wearable Index](https://github.com/Explore-In-HMOS-Wearable/hmos-index).
+> **Note:** To access all shared projects, get information about environment setup, and view other guides, please visit [Explore-In-HMOS Index](https://github.com/Explore-In-HMOS/hmos-index).
 
 # Moveo
 
 Fundamentals for Wear engine feature that receiving data to lite device from mobile 
 
-> **Companion app:** This is the Lite Wearable watch side of Moveo. The Android phone app it pairs with is [moveo-mobile](https://github.com/Explore-In-HMOS-Wearable/moveo-mobile). Install both to try the full flow.
+> **Companion app:** This is the Lite Wearable watch side of Moveo. The Android phone app it pairs with is [moveo-mobile](https://github.com/Explore-In-HMOS/moveo-mobile). Install both to try the full flow.
 
 # Preview
 
