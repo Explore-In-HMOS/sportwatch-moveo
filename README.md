@@ -4,7 +4,7 @@
 
 Fundamentals for Wear engine feature that receiving data to lite device from mobile 
 
-> **Companion app:** This is the Lite Wearable watch side of Moveo. The Android phone app it pairs with is [moveo-mobile](https://github.com/Explore-In-HMOS/moveo-mobile). Install both to try the full flow.
+> **Companion app:** This is the SportWatch side of Moveo. The Android phone app it pairs with is [moveo-mobile](https://github.com/Explore-In-HMOS/moveo-mobile). Install both to try the full flow.
 
 # Preview
 
@@ -73,9 +73,9 @@ entry/
  
 This app needs Mooveora Android App to work with wear engine feature.
  
-* Connect lite wearable device to mobile phone
+* Connect SportWatch device to mobile phone
 * Login Huawei Health Kit on mobile side
-* While on workout session send health data and can be displayed data on lite wearable device 
+* While on workout session send health data and can be displayed data on SportWatch device 
 
 # License (MIT)
 
